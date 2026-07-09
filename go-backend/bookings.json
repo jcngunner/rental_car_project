@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "bookingRef": "HN-155338",
+    "carName": "Nissan Altima",
+    "fullName": "Lio Nicacio",
+    "email": "jcngunner@hotmail.com",
+    "phone": "+358 46 627 4957",
+    "pickupDate": "2026-06-12",
+    "duration": "3 Days",
+    "totalPrice": "€174",
+    "createdAt": "2026-06-12T13:07:48.9424938+03:00"
+  },
+  {
+    "id": 2,
+    "bookingRef": "HN-155339",
+    "carName": "Honda Civic",
+    "fullName": "Lio Nicacio",
+    "email": "jcngunner@hotmail.com",
+    "phone": "+358 46 627 4957",
+    "pickupDate": "2026-06-12",
+    "duration": "4 Days",
+    "totalPrice": "€240",
+    "createdAt": "2026-06-12T13:22:41.2724367+03:00"
+  },
+  {
+    "id": 3,
+    "bookingRef": "HN-152135",
+    "carName": "Hyundai Sonata",
+    "fullName": "Lio Nicacio",
+    "email": "jcngunner@hotmail.com",
+    "phone": "+358 46 627 4957",
+    "pickupDate": "2026-06-12",
+    "duration": "1 Days",
+    "totalPrice": "€65",
+    "createdAt": "2026-06-17T11:41:24.8015512+03:00"
+  },
+  {
+    "id": 4,
+    "bookingRef": "HN-145961",
+    "carName": "Toyota Corolla",
+    "fullName": "Joonas Suokko",
+    "email": "jcngunner@hotmail.com",
+    "phone": "+358 46 627 4957",
+    "pickupDate": "2026-07-10",
+    "duration": "4 Days",
+    "totalPrice": "€220",
+    "createdAt": "2026-06-29T15:40:46.9173309+03:00"
+  },
+  {
+    "id": 5,
+    "bookingRef": "HN-069818",
+    "carName": "Mercedes-Benz E-Class",
+    "fullName": "Lio Nicacio",
+    "email": "jcngunner@hotmail.com",
+    "phone": "+358 46 627 4957",
+    "pickupDate": "2026-07-01",
+    "duration": "3 Days",
+    "totalPrice": "€465",
+    "createdAt": "2026-06-29T15:46:01.3249156+03:00"
+  }
+]

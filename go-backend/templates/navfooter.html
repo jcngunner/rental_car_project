@@ -1,0 +1,11 @@
+{{define "navfooter"}}
+<header>
+    <img src="/api/images/logo.png" alt="Hakamada & Nicacio Logo" class="brand-logo" onclick="showView('home')">
+    <p>Premium Fleet Concierge</p>
+    <div class="nav-tabs-wrapper">
+        <span class="nav-tab-item active-tab" id="tabHome" onclick="showView('home')">Showroom</span>
+        <span class="nav-tab-item" id="tabFleet" onclick="showView('fleet')">Our Fleet</span>
+        <span class="nav-tab-item" id="tabTrack" onclick="showView('track')">Track Order</span>
+    </div>
+</header>
+{{end}}
